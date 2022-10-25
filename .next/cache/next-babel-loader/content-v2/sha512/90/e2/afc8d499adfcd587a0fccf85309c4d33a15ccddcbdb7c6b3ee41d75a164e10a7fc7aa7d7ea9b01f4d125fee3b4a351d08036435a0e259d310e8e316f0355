@@ -1,0 +1,1 @@
+{"ast":null,"code":"var name = function name(params) {};","map":{"version":3,"sources":["C:/Users/kamil/Desktop/front-end/learning/react/nextjs-practice/pages/[meetupId]/index.js"],"names":["name","params"],"mappings":"AAAA,IAAMA,IAAI,GAAG,SAAPA,IAAO,CAACC,MAAD,EAAY,CAExB,CAFD","sourcesContent":["const name = (params) => {\r\n    \r\n}"]},"metadata":{},"sourceType":"script"}

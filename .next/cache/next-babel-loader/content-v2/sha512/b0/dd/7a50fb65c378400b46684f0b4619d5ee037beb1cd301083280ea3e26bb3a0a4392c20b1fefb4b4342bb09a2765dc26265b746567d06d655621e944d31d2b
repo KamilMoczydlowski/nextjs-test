@@ -1,0 +1,1 @@
+{"ast":null,"code":"const MeetupDetails = params => {};","map":{"version":3,"sources":["C:/Users/kamil/Desktop/front-end/learning/react/nextjs-practice/pages/[meetupId]/index.js"],"names":["MeetupDetails","params"],"mappings":"AAAA,MAAMA,aAAa,GAAIC,MAAD,IAAY,CAEjC,CAFD","sourcesContent":["const MeetupDetails = (params) => {\r\n    \r\n}"]},"metadata":{},"sourceType":"script"}
